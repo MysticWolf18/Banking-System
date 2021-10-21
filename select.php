@@ -15,7 +15,7 @@
         integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx"
         crossorigin="anonymous"></script>
     <style>body {
-    background-image: url("img/4.jpg");
+    
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -28,7 +28,7 @@
     <!-- __________________NAVIGATION BAR____________________ -->
     <div id="title">
         <nav id="navbar" class="navbar navbar-expand-lg navbar-dark ">
-            <a id="navbar-brand" href="index.php">Keval's<span>  Bank</span></a>
+            <a id="navbar-brand" href="index.php">BASIC<span>  BANKING SYSTEM</span></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01"
                 aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -39,9 +39,7 @@
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">Home</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#footer">Contact</a>
-                    </li>
+                    
 
                 </ul>
             </div>
@@ -119,11 +117,6 @@
         </form>
     </div>
 </body>
-<footer id="footer">
-  <i class="social-icon fas fa-phone-square-alt"></i>
-  <i class="social-icon fab fa-twitter-square"></i>
-  <i class="social-icon fas fa-envelope-square"></i>
-  <p>© Copyright 2021 Keval's Bank</p>
-</footer>
+
 
 </html>
